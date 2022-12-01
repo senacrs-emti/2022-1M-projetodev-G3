@@ -37,8 +37,8 @@ button{
     border: 2px solid;
     border-color: rgb(255, 255, 255);
     color: white;
-    width: 7%;
-    height: 30px;
+    width: 5%;
+    height: 37px;
     cursor: pointer;
     font-size: 13px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -51,4 +51,20 @@ button {
 button:hover {
     background-color: #7dd0ff;
     color: white;
+}
+
+label {
+    color: white;
+    font-size: 20px;
+    margin-left: 60%;
+}
+
+select {
+    color: white;
+    font-size: 17px;
+    background-color: #333;
+}
+
+.container {
+    margin-top: -27%;
 }
