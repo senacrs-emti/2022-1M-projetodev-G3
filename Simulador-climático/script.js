@@ -1,12 +1,11 @@
-const mymap = L.map('mapid').setView([ -30.0277, -51.2287], 11);
-
-
-L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    const mymap = L.map('mapid').setView([ 28.5383400, -81.3792400], 11);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(mymap);
 
+
 function m1() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -15,7 +14,7 @@ function m1() {
 }
 
 function m2() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -24,7 +23,7 @@ function m2() {
 }
 
 function m3() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -33,7 +32,7 @@ function m3() {
 }
 
 function m4() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -42,7 +41,7 @@ function m4() {
 }
 
 function m5() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -51,7 +50,7 @@ function m5() {
 }
 
 function m6() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -60,7 +59,7 @@ function m6() {
 }
 
 function m7() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -69,7 +68,7 @@ function m7() {
 }
 
 function m8() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -78,7 +77,7 @@ function m8() {
 }
 
 function m9() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -87,7 +86,7 @@ function m9() {
 }
 
 function TS1() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -96,7 +95,7 @@ function TS1() {
 }
 
 function TS2() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -105,7 +104,7 @@ function TS2() {
 }
 
 function TS3() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -114,7 +113,7 @@ function TS3() {
 }
 
 function TS4() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -123,7 +122,7 @@ function TS4() {
 }
 
 function TS5() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -132,7 +131,7 @@ function TS5() {
 }
 
 function TS6() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -141,7 +140,7 @@ function TS6() {
 }
 
 function TS7() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -150,7 +149,7 @@ function TS7() {
 }
 
 function TS8() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -159,7 +158,7 @@ function TS8() {
 }
 
 function TS9() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -170,7 +169,7 @@ function TS9() {
 //Tsunami//
 
 function T1() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -179,7 +178,7 @@ function T1() {
 }
 
 function T2() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -188,7 +187,7 @@ function T2() {
 }
 
 function T3() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -197,7 +196,7 @@ function T3() {
 }
 
 function T4() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -206,7 +205,7 @@ function T4() {
 }
 
 function T5() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -215,7 +214,7 @@ function T5() {
 }
 
 function T6() {
-    var circle = L.circle([ -30.0277, -51.2287], {
+    var circle = L.circle([ 28.5383400, -81.3792400], {
         color: 'red',
         fillColor: '#f03',
         fillOpacity: 0.5,
@@ -225,10 +224,13 @@ function T6() {
 
 //Tornado//
 
+function localizacao(){
+    geo = document.getElementById("local").value;
+    alert(geo);
+}
 
 
 
-
-var marker = L.marker([ -30.0277, -51.2287]).addTo(mymap);
+var marker = L.marker([ 28.5383400, -81.3792400]).addTo(mymap);
 //
 
